@@ -66,7 +66,7 @@ EOF
                     "clients": [
                         {
                             "id": "${UUID}",
-                            "alterId": 4
+                            "alterId": 2
                         }
                     ]
                 },
@@ -148,7 +148,7 @@ install(){
       "add": "${IBM_APP_NAME}.us-south.cf.appdomain.cloud",
       "port": "443",
       "id": "${UUID}",
-      "aid": "4",
+      "aid": "2",
       "net": "ws",
       "type": "none",
       "host": "",
